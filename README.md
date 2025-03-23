@@ -8,7 +8,7 @@
 [![Paper](https://img.shields.io/badge/Paper-ICLR_2025-blue)](https://openreview.net/forum?id=eaTqsptDPL)
 
 
-Full code will be released very soon!
+Full code has been moved to [here](https://github.com/BAIKLAB/SAFT-Merge)!
 
 
 
